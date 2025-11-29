@@ -30,6 +30,7 @@ https://sivalingam-r.github.io/Wikipidiea/
 ## 📂 Project Structure
 
 /Wikipedia-Search
+
 ├── index.html
 
 ├── style.css
